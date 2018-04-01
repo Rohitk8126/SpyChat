@@ -1,3 +1,5 @@
-spy_name='Mr.Rohit Kumar'
-spy_age=21
-spy_rating=5.7
+spy={
+       'name': 'Mr. Rohit ',
+       'age': 20,
+       'rating': 2.2
+     }
